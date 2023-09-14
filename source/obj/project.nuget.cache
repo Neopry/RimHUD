@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "81Mamye25Ypj4tqmyivXQMGQ0F9jp1lMNlaSPP5OSUe1kPx2Q8EjRW2Epf0X3NHr1xALD/0xKp0keNAFO2BgpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Projects\\RW\\Mods\\RimHUD\\source\\RimHUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\X\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512",
+    "C:\\Users\\X\\.nuget\\packages\\nullable\\1.3.1\\nullable.1.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
