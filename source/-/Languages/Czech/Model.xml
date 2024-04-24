@@ -1,0 +1,71 @@
+<LanguageData>
+<RimHUD.Model.Bio.Title>Název: {0}</RimHUD.Model.Bio.Title>
+<RimHUD.Model.Bio.Faction>Frakce: {0}</RimHUD.Model.Bio.Faction>
+<RimHUD.Model.Bio.Ideoligion>Ideologie: {0}</RimHUD.Model.Bio.Ideoligion>
+<RimHUD.Model.Bio.Lifestage>Fáze života: {0}</RimHUD.Model.Bio.Lifestage>
+<RimHUD.Model.Bio.Master>Mistr: {0}</RimHUD.Model.Bio.Master>
+<RimHUD.Model.Bio.Diet>Strava: {0}</RimHUD.Model.Bio.Diet>
+<RimHUD.Model.Bio.Trainability>Vzdělatelnost: {0}</RimHUD.Model.Bio.Trainability>
+<RimHUD.Model.Bio.Wildness>Divokost: {0}</RimHUD.Model.Bio.Wildness>
+<RimHUD.Model.Bio.Petness>Domáci zvíře: {0}</RimHUD.Model.Bio.Petness>
+<RimHUD.Model.RelationKindAndFaction>{0} {1}</RimHUD.Model.RelationKindAndFaction>
+<RimHUD.Model.OfFaction>z {0}</RimHUD.Model.OfFaction>
+<RimHUD.Model.Faction.Wild>divoký</RimHUD.Model.Faction.Wild>
+<RimHUD.Model.Faction.Allied>spojenec</RimHUD.Model.Faction.Allied>
+<RimHUD.Model.Faction.Enemy>nepřítel</RimHUD.Model.Faction.Enemy>
+<RimHUD.Model.Faction.Hostile>nepřátelský</RimHUD.Model.Faction.Hostile>
+<RimHUD.Model.Faction.Independent>nezávislý</RimHUD.Model.Faction.Independent>
+<RimHUD.Model.Faction.Prisoner>zajat</RimHUD.Model.Faction.Prisoner>
+<RimHUD.Model.Faction.Slave>zotročen</RimHUD.Model.Faction.Slave>
+<RimHUD.Model.Creature.Wild>tvor</RimHUD.Model.Creature.Wild>
+<RimHUD.Model.Creature.Tame>zvíře</RimHUD.Model.Creature.Tame>
+<RimHUD.Model.Creature.Stray>zatoulaný</RimHUD.Model.Creature.Stray>
+<RimHUD.Model.Creature.Pet>mazlíček</RimHUD.Model.Creature.Pet>
+<RimHUD.Model.Creature.ExoticPet>exotický mazlíček</RimHUD.Model.Creature.ExoticPet>
+<RimHUD.Model.Creature.Predator>predátor</RimHUD.Model.Creature.Predator>
+<RimHUD.Model.Creature.Hunt>lovecké zvíře</RimHUD.Model.Creature.Hunt>
+<RimHUD.Model.Creature.Pack>smečka</RimHUD.Model.Creature.Pack>
+<RimHUD.Model.Creature.Farm>farmářské zvíře</RimHUD.Model.Creature.Farm>
+<RimHUD.Model.Creature.Herd>stádo</RimHUD.Model.Creature.Herd>
+<RimHUD.Model.Creature.Insect>hmyz</RimHUD.Model.Creature.Insect>
+<RimHUD.Model.Creature.Mechanoid>mechanoid</RimHUD.Model.Creature.Mechanoid>
+<RimHUD.Model.Creature.Unit>jednotka</RimHUD.Model.Creature.Unit>
+<RimHUD.Model.Creature.Entity>entita</RimHUD.Model.Creature.Entity>
+<RimHUD.Model.GenderRaceAndAge>{0} ve věku {1}</RimHUD.Model.GenderRaceAndAge>
+<RimHUD.Model.Age.Birthday>(Narozeniny)</RimHUD.Model.Age.Birthday>
+<RimHUD.Model.Age.Day>a jednoho dne</RimHUD.Model.Age.Day>
+<RimHUD.Model.Age.Days>a {0} dní</RimHUD.Model.Age.Days>
+<RimHUD.Model.Health.Dead>Po smrti</RimHUD.Model.Health.Dead>
+<RimHUD.Model.Health.Incapacitated>Neschopnost</RimHUD.Model.Health.Incapacitated>
+<RimHUD.Model.Health.Bleed>Krvácení {0}</RimHUD.Model.Health.Bleed>
+<RimHUD.Model.Health.Tend>{0}potřebuje ošetřit</RimHUD.Model.Health.Tend>
+<RimHUD.Model.Health.TendPlural>{0} podmínky vyžadují péči</RimHUD.Model.Health.TendPlural>
+<RimHUD.Model.Health.Threat>Má život ohrožující {0}</RimHUD.Model.Health.Threat>
+<RimHUD.Model.Health.ThreatPlural>Má {0} život ohrožující stavy</RimHUD.Model.Health.ThreatPlural>
+<RimHUD.Model.Health.Affected>Ovlivněn {0}</RimHUD.Model.Health.Affected>
+<RimHUD.Model.Health.AffectedTwo>Ovlivněno {0} a 1 další podmínkou</RimHUD.Model.Health.AffectedTwo>
+<RimHUD.Model.Health.AffectedPlural>Ovlivněno {0} a {1} dalšími podmínkami</RimHUD.Model.Health.AffectedPlural>
+<RimHUD.Model.Health.Stable>Stabilní zdravotní stav</RimHUD.Model.Health.Stable>
+<RimHUD.Model.Health.MedicalCare>Změňte úroveň lékařské péče poskytované tomuto {0}.\n\nAktuální úroveň: {1}</RimHUD.Model.Health.MedicalCare>
+<RimHUD.Model.Mood.ExtremeBreakImminent>Mám deprese</RimHUD.Model.Mood.ExtremeBreakImminent>
+<RimHUD.Model.Mood.MajorBreakImminent>Jsem nešťastný</RimHUD.Model.Mood.MajorBreakImminent>
+<RimHUD.Model.Mood.MinorBreakImminent>Jsem ve stresu</RimHUD.Model.Mood.MinorBreakImminent>
+<RimHUD.Model.Mood.Happy>Jsem šťastný</RimHUD.Model.Mood.Happy>
+<RimHUD.Model.Mood.Content>Jsem spokojený</RimHUD.Model.Mood.Content>
+<RimHUD.Model.Mood.Indifferent>Jsem lhostejný</RimHUD.Model.Mood.Indifferent>
+<RimHUD.Model.Info.Activity>Aktivita: {0}</RimHUD.Model.Info.Activity>
+<RimHUD.Model.Info.Activity.Tooltip>{0}\n\n{1}\n\n{2}</RimHUD.Model.Info.Activity.Tooltip>
+<RimHUD.Model.Info.Activity.WorkType>Typ práce: {0}</RimHUD.Model.Info.Activity.WorkType>
+<RimHUD.Model.Info.Activity.RelevantSkills>Příslušné dovednosti: {0}</RimHUD.Model.Info.Activity.RelevantSkills>
+<RimHUD.Model.Info.Attacking>Útok {0}</RimHUD.Model.Info.Attacking>
+<RimHUD.Model.Info.Queued>Čeká ve frontě: {0}</RimHUD.Model.Info.Queued>
+<RimHUD.Model.Info.Equipped>Vybavení: {0}</RimHUD.Model.Info.Equipped>
+<RimHUD.Model.Info.Carrying>Přenášení: {0}</RimHUD.Model.Info.Carrying>
+<RimHUD.Model.Selector.OutfitFormat>Oblečení: {0}</RimHUD.Model.Selector.OutfitFormat>
+<RimHUD.Model.Selector.FoodFormat>Jídlo: {0}</RimHUD.Model.Selector.FoodFormat>
+<RimHUD.Model.Selector.TimetableFormat>Časový rozvrh: {0}</RimHUD.Model.Selector.TimetableFormat>
+<RimHUD.Model.Selector.SetTimeAssignment>Nastavení hodiny {0} na {1}</RimHUD.Model.Selector.SetTimeAssignment>
+<RimHUD.Model.Selector.AreaFormat>Oblasti {0}</RimHUD.Model.Selector.AreaFormat>
+<RimHUD.Model.Selector.Manage>Správa...</RimHUD.Model.Selector.Manage>
+<RimHUD.Model.Skill.PassionIndicator>★</RimHUD.Model.Skill.PassionIndicator>
+</LanguageData>

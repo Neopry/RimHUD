@@ -1,0 +1,65 @@
+<LanguageData>
+<RimHUD.Theme.RefreshRate>Rychlost obnovování</RimHUD.Theme.RefreshRate>
+<RimHUD.Theme.RefreshRateDesc>Jak často se HUD aktualizuje. Pokud dochází k poklesu snímkové frekvence, nastavte vyšší hodnotu.</RimHUD.Theme.RefreshRateDesc>
+<RimHUD.Theme.RefreshRateUnits>ms</RimHUD.Theme.RefreshRateUnits>
+<RimHUD.Theme.InspectPane>Kontrolní panel</RimHUD.Theme.InspectPane>
+<RimHUD.Theme.InspectPaneDocked>Dokovací režim</RimHUD.Theme.InspectPaneDocked>
+<RimHUD.Theme.InspectPaneDockedDesc>Připojí panel HUD k panelu kontroly.</RimHUD.Theme.InspectPaneDockedDesc>
+<RimHUD.Theme.InspectPaneModify>Upravit</RimHUD.Theme.InspectPaneModify>
+<RimHUD.Theme.InspectPaneModifyDesc>Tato funkce je nutná pro režim doku.</RimHUD.Theme.InspectPaneModifyDesc>
+<RimHUD.Theme.InspectPaneAddLog>Zobrazit záznamy</RimHUD.Theme.InspectPaneAddLog>
+<RimHUD.Theme.InspectPaneAddLogDesc>Vyplní podokno inspekce protokolem pro vybraný znak. Není k dispozici pro dokovací režim.</RimHUD.Theme.InspectPaneAddLogDesc>
+<RimHUD.Theme.InspectPaneHeight>Výška panelu</RimHUD.Theme.InspectPaneHeight>
+<RimHUD.Theme.InspectPaneMinTabs>Minimální karty</RimHUD.Theme.InspectPaneMinTabs>
+<RimHUD.Theme.InspectPaneTabWidth>Šířka karty</RimHUD.Theme.InspectPaneTabWidth>
+<RimHUD.Theme.Floating>Plovoucí režim</RimHUD.Theme.Floating>
+<RimHUD.Theme.FloatingAnchor>Kotva</RimHUD.Theme.FloatingAnchor>
+<RimHUD.Theme.FloatingAnchors>Nahoře vlevo|Nahoře uprostřed|Nahoře vpravo|Vlevo uprostřed|Vpravo uprostřed|Dole vlevo|Dole uprostřed|Dole vpravo</RimHUD.Theme.FloatingAnchors>
+<RimHUD.Theme.FloatingOffsetX>X</RimHUD.Theme.FloatingOffsetX>
+<RimHUD.Theme.FloatingOffsetY>Y</RimHUD.Theme.FloatingOffsetY>
+<RimHUD.Theme.FloatingWidth>Výška</RimHUD.Theme.FloatingWidth>
+<RimHUD.Theme.FloatingHeight>Šířka</RimHUD.Theme.FloatingHeight>
+<RimHUD.Theme.TextStyle.Size>Velikost</RimHUD.Theme.TextStyle.Size>
+<RimHUD.Theme.TextStyle.Height>Výška řádku</RimHUD.Theme.TextStyle.Height>
+<RimHUD.Theme.TextStyleRegular>Pravidelný text</RimHUD.Theme.TextStyleRegular>
+<RimHUD.Theme.TextStyleLarge>Text záhlaví</RimHUD.Theme.TextStyleLarge>
+<RimHUD.Theme.TextStyleSmall>Popis Text</RimHUD.Theme.TextStyleSmall>
+<RimHUD.Theme.LabelWidth>Šířka štítku</RimHUD.Theme.LabelWidth>
+<RimHUD.Theme.ValueWidth>Hodnota Šíře</RimHUD.Theme.ValueWidth>
+<RimHUD.Theme.Miscellaneous>Různé</RimHUD.Theme.Miscellaneous>
+<RimHUD.Theme.ShowFactionIcon>Zobrazit ikonu frakce</RimHUD.Theme.ShowFactionIcon>
+<RimHUD.Theme.ShowIdeoligionIcon>Zobrazit ikonu ideoligie</RimHUD.Theme.ShowIdeoligionIcon>
+<RimHUD.Theme.ShowDecimals>Zobrazit desetinná čísla</RimHUD.Theme.ShowDecimals>
+<RimHUD.Theme.LetterPadding>Vycpávky písmen</RimHUD.Theme.LetterPadding>
+<RimHUD.Theme.LetterPaddingDesc>Změní vzdálenost mezi oznámeními písmen, která se zobrazují na pravé straně obrazovky. Vanilla: 12</RimHUD.Theme.LetterPaddingDesc>
+<RimHUD.Theme.LetterCompress>Komprimovat oznámení</RimHUD.Theme.LetterCompress>
+<RimHUD.Theme.LetterCompressDesc>Zkomprimuje všechna písmena a upozornění na pravé straně obrazovky, pokud se překrývají s HUD.</RimHUD.Theme.LetterCompressDesc>
+<RimHUD.Theme.HudColors>HUD barvy</RimHUD.Theme.HudColors>
+<RimHUD.Theme.MainTextColor>Hlavní text</RimHUD.Theme.MainTextColor>
+<RimHUD.Theme.DisabledColor>Vypnutý text</RimHUD.Theme.DisabledColor>
+<RimHUD.Theme.CriticalColor>Kritický text</RimHUD.Theme.CriticalColor>
+<RimHUD.Theme.WarningColor>Varovný text</RimHUD.Theme.WarningColor>
+<RimHUD.Theme.InfoColor>Informativní text</RimHUD.Theme.InfoColor>
+<RimHUD.Theme.GoodColor>Dobrý text</RimHUD.Theme.GoodColor>
+<RimHUD.Theme.ExcellentColor>Skvělý text</RimHUD.Theme.ExcellentColor>
+<RimHUD.Theme.BarBackgroundColor>Pozadí baru</RimHUD.Theme.BarBackgroundColor>
+<RimHUD.Theme.BarMainColor>Hlavní panel</RimHUD.Theme.BarMainColor>
+<RimHUD.Theme.BarLowColor>Nízká lišta</RimHUD.Theme.BarLowColor>
+<RimHUD.Theme.BarThresholdColor>Prahová hodnota baru</RimHUD.Theme.BarThresholdColor>
+<RimHUD.Theme.SelectorBackgroundColor>Výběr pozadí</RimHUD.Theme.SelectorBackgroundColor>
+<RimHUD.Theme.SelectorTextColor>Text výběru</RimHUD.Theme.SelectorTextColor>
+<RimHUD.Theme.LineColor>Řádek</RimHUD.Theme.LineColor>
+<RimHUD.Theme.FactionColors>Barvy frakcí</RimHUD.Theme.FactionColors>
+<RimHUD.Theme.FactionOwnColor>Vlastněné</RimHUD.Theme.FactionOwnColor>
+<RimHUD.Theme.FactionAlliedColor>Spojenecké</RimHUD.Theme.FactionAlliedColor>
+<RimHUD.Theme.FactionIndependentColor>Nezávyslé</RimHUD.Theme.FactionIndependentColor>
+<RimHUD.Theme.FactionHostileColor>Nepřátelské</RimHUD.Theme.FactionHostileColor>
+<RimHUD.Theme.FactionWildColor>Divoké</RimHUD.Theme.FactionWildColor>
+<RimHUD.Theme.FactionPrisonerColor>Vězeňské</RimHUD.Theme.FactionPrisonerColor>
+<RimHUD.Theme.FactionSlaveColor>Otrokářské</RimHUD.Theme.FactionSlaveColor>
+<RimHUD.Theme.SkillColors>Barvy dovedností</RimHUD.Theme.SkillColors>
+<RimHUD.Theme.SkillMinorPassionColor>Drobná vášeň</RimHUD.Theme.SkillMinorPassionColor>
+<RimHUD.Theme.SkillMajorPassionColor>Hlavní vášeň</RimHUD.Theme.SkillMajorPassionColor>
+<RimHUD.Theme.SkillSaturatedColor>Učení nasycené</RimHUD.Theme.SkillSaturatedColor>
+<RimHUD.Theme.SkillActiveColor>V současné době aktivní</RimHUD.Theme.SkillActiveColor>
+</LanguageData>

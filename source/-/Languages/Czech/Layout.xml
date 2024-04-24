@@ -1,0 +1,70 @@
+<LanguageData>
+<RimHUD.Layout.UserPreset>Uživatel</RimHUD.Layout.UserPreset>
+<RimHUD.Layout.IntegratedPreset>Integrované přednastavení</RimHUD.Layout.IntegratedPreset>
+<RimHUD.Layout.Root>Root</RimHUD.Layout.Root>
+<RimHUD.Layout.VStack>Vertikální zásobník</RimHUD.Layout.VStack>
+<RimHUD.Layout.VStackFilled>Vertikální ukazatel (naplněný)</RimHUD.Layout.VStackFilled>
+<RimHUD.Layout.HStack>Horizontální Ukazatel</RimHUD.Layout.HStack>
+<RimHUD.Layout.HStackFilled>Horizontální Ukazatel (naplněný)</RimHUD.Layout.HStackFilled>
+<RimHUD.Layout.Panel>Lišta</RimHUD.Layout.Panel>
+<RimHUD.Layout.PanelFilled>Lišta (naplněná)</RimHUD.Layout.PanelFilled>
+<RimHUD.Layout.Row>Řádek</RimHUD.Layout.Row>
+<RimHUD.Layout.ContainerFilled>Naplněný</RimHUD.Layout.ContainerFilled>
+<RimHUD.Layout.Blank>Prázdný</RimHUD.Layout.Blank>
+<RimHUD.Layout.Separator>Oddělovač řádků</RimHUD.Layout.Separator>
+<RimHUD.Layout.NameHeader>Název jako záhlaví</RimHUD.Layout.NameHeader>
+<RimHUD.Layout.Outfit>Výběr oblečení</RimHUD.Layout.Outfit>
+<RimHUD.Layout.Food>Výběr potravin</RimHUD.Layout.Food>
+<RimHUD.Layout.Rules>Výběr pravidel</RimHUD.Layout.Rules>
+<RimHUD.Layout.Timetable>Výběr rozvrhu</RimHUD.Layout.Timetable>
+<RimHUD.Layout.Area>Výběr oblasti</RimHUD.Layout.Area>
+<RimHUD.Layout.RelationKindAndFaction>Příbuznost, druh a frakce</RimHUD.Layout.RelationKindAndFaction>
+<RimHUD.Layout.GenderRaceAndAge>Pohlaví, rasa a stáří</RimHUD.Layout.GenderRaceAndAge>
+<RimHUD.Layout.SimpleGenderRaceAndAge>Jednoduché informace o pohlaví, rase a věku</RimHUD.Layout.SimpleGenderRaceAndAge>
+<RimHUD.Layout.Health>Lišta zdraví</RimHUD.Layout.Health>
+<RimHUD.Layout.HealthCondition>Zdravotní kondice</RimHUD.Layout.HealthCondition>
+<RimHUD.Layout.MentalCondition>Psychická kondice</RimHUD.Layout.MentalCondition>
+<RimHUD.Layout.Stat>{0} statistika</RimHUD.Layout.Stat>
+<RimHUD.Layout.Record>{0} rekork</RimHUD.Layout.Record>
+<RimHUD.Layout.NeedMood>Lišta nálady</RimHUD.Layout.NeedMood>
+<RimHUD.Layout.NeedFood>Lišta hladu</RimHUD.Layout.NeedFood>
+<RimHUD.Layout.NeedSleep>Lišta spánku</RimHUD.Layout.NeedSleep>
+<RimHUD.Layout.NeedEnergy>Lišta energie</RimHUD.Layout.NeedEnergy>
+<RimHUD.Layout.NeedRecreation>Lišta relaxace</RimHUD.Layout.NeedRecreation>
+<RimHUD.Layout.NeedSuppression>Potlačovací lišta</RimHUD.Layout.NeedSuppression>
+<RimHUD.Layout.Need>{0}lišta </RimHUD.Layout.Need>
+<RimHUD.Layout.SkillShooting>Střelecká dovednost</RimHUD.Layout.SkillShooting>
+<RimHUD.Layout.SkillMelee>Dovednosti boje zblízka</RimHUD.Layout.SkillMelee>
+<RimHUD.Layout.SkillConstruction>Dovednost stavby</RimHUD.Layout.SkillConstruction>
+<RimHUD.Layout.SkillMining>Dovednost těžby</RimHUD.Layout.SkillMining>
+<RimHUD.Layout.SkillCooking>Dovednost vaření</RimHUD.Layout.SkillCooking>
+<RimHUD.Layout.SkillPlants>Dovednost sázení</RimHUD.Layout.SkillPlants>
+<RimHUD.Layout.SkillAnimals>Dovednost práci se zvířaty</RimHUD.Layout.SkillAnimals>
+<RimHUD.Layout.SkillCrafting>Dovednost výroby</RimHUD.Layout.SkillCrafting>
+<RimHUD.Layout.SkillArtistic>Dovednost umění</RimHUD.Layout.SkillArtistic>
+<RimHUD.Layout.SkillMedicine>Dovednost ošetřování</RimHUD.Layout.SkillMedicine>
+<RimHUD.Layout.SkillSocial>Sociální dovednost</RimHUD.Layout.SkillSocial>
+<RimHUD.Layout.SkillIntellectual>Dovednost inteligence</RimHUD.Layout.SkillIntellectual>
+<RimHUD.Layout.Skill>{0}dovednost</RimHUD.Layout.Skill>
+<RimHUD.Layout.TrainingTameness>Trénink krotkosti</RimHUD.Layout.TrainingTameness>
+<RimHUD.Layout.TrainingObedience>Trénink poslušnosti</RimHUD.Layout.TrainingObedience>
+<RimHUD.Layout.TrainingRelease>Trénink propuštění</RimHUD.Layout.TrainingRelease>
+<RimHUD.Layout.TrainingRescue>Trénink záchrany</RimHUD.Layout.TrainingRescue>
+<RimHUD.Layout.TrainingHaul>Trénink nošení</RimHUD.Layout.TrainingHaul>
+<RimHUD.Layout.Training>{0}trénink</RimHUD.Layout.Training>
+<RimHUD.Layout.Master>Mistr</RimHUD.Layout.Master>
+<RimHUD.Layout.Activity>Činnost</RimHUD.Layout.Activity>
+<RimHUD.Layout.Queued>Ve frontě</RimHUD.Layout.Queued>
+<RimHUD.Layout.Equipped>Nasazeno</RimHUD.Layout.Equipped>
+<RimHUD.Layout.Carrying>Nese</RimHUD.Layout.Carrying>
+<RimHUD.Layout.CompInfo>Další informace</RimHUD.Layout.CompInfo>
+<RimHUD.Layout.PrisonerInfo>Informace o vězni</RimHUD.Layout.PrisonerInfo>
+<RimHUD.Layout.Target.PlayerHumanlike>Hráč podobný lidem</RimHUD.Layout.Target.PlayerHumanlike>
+<RimHUD.Layout.Target.OtherHumanlike>Ostatní lidem podobní</RimHUD.Layout.Target.OtherHumanlike>
+<RimHUD.Layout.Target.PlayerCreature>Hráčské stvoření</RimHUD.Layout.Target.PlayerCreature>
+<RimHUD.Layout.Target.OtherCreature>Ostatní stvoření</RimHUD.Layout.Target.OtherCreature>
+<RimHUD.Layout.BarColorStyle.LowToMain>Od nízké po hlavní barvu (výchozí)</RimHUD.Layout.BarColorStyle.LowToMain>
+<RimHUD.Layout.BarColorStyle.LowOnly>Pouze nízká barva</RimHUD.Layout.BarColorStyle.LowOnly>
+<RimHUD.Layout.BarColorStyle.MainToLow>Hlavní až nízká barva</RimHUD.Layout.BarColorStyle.MainToLow>
+<RimHUD.Layout.BarColorStyle.MainOnly>Main color only</RimHUD.Layout.BarColorStyle.MainOnly>
+</LanguageData>
